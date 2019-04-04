@@ -1,2 +1,7 @@
-# remote-terminal-client
-remote-terminal-client
+树莓派客户端连接：
+
+主要使用sokcet.io-client
+
+功能:1，创建虚拟shell执行环境 2，将执行结果实时返回给浏览器后台
+
+部署:通过命令下载脚本，在moja账户下安装node pm2，使用pm2部署代码
